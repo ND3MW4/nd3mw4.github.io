@@ -20,6 +20,7 @@ author_profile: true
 ---
 
 ### 📜 **Certifications**
+- Ethical Hacker
 - Data and AI
 - Programmable Logic Controller (PLC)
 - Supervisory Control and Data Acquisition (SCADA)
@@ -40,6 +41,19 @@ author_profile: true
 ---
 
 ### 📂 **Projects**
+
+#### 🧪 *Ethical Hacker*
+- Introduction to Ethical Hacking and Information Security
+- Planning and Scoping a Penetration Test
+- Information Gathering and Vulnerability Analysis
+- Social Engineering Attacks
+- Exploiting Wired and Wireless Networks
+- Exploiting Application-Based Vulnerabilities
+- Cloud, Mobile, and IoT Security
+- Performing Post-Exploitation and Privilege Escalation
+- Reporting and Communication
+- Tools and Code Analysis
+
 
 #### 🧪 *Data Science & AI*
 - Web Scraping
