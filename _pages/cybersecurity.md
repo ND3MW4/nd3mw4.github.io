@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Cyber Security"
-permalink: /electrical/
+permalink: /cybersecurity/
 author_profile: true
 ---
 
