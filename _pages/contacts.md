@@ -13,7 +13,7 @@ I’m always open to professional connections, collaborations, and new opportuni
 
 ## 📬 Contact Details
 
-- 📧 **Email:** [kyalodenis@gmail.com](mailto:kyalodenis@gmail.com)
+- 📧 **Barua Pepe:** [kyalodenis@gmail.com](mailto:kyalodenis@gmail.com)
 - ☎️ **Phone:** [+254 710 425 528](tel:+254710425528)
 - 💼 **LinkedIn:** [Denis Ndemwa](https://www.linkedin.com/in/denisndemwa/)
 - 🐙 **GitHub:** [ND3MW4](https://github.com/ND3MW4)
