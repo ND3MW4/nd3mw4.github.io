@@ -102,6 +102,6 @@ author_profile: true
 
 ---
 
-> ⚡ *Bridging electronics and AI to create intelligent, real-time solutions.*
+> ⚡ *Bridging Electronics, AI, and Cybersecurity to build intelligent, secure, real-time solutions.*
 
 ---
