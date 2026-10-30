@@ -5,6 +5,11 @@ permalink: /cybersecurity/
 author_profile: true
 ---
 
+# 🛠 Projects
+
+Here’s a selection of some projects showcasing my work in ensuring Resilience 🥷💻🔐
+
+
 
 AfricaHackOn Cyber Security SwaraPermalink
 
