@@ -28,7 +28,7 @@ plugins:
 
 author:
   name   : "Denis Ndemwa"
-  avatar : "/assets/images/DN.jpg"
+  avatar : "/assets/images/DN.png"
   bio    : "Inventing at the intersection of circuits, code, and intelligent systems."
   links:
     - label: "LinkedIn"
