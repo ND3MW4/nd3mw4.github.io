@@ -6,7 +6,7 @@ main:
     url: /electrical/
 
   - title: "🛡️ Cyber Security"
-    url: /labs/
+    url: /cybersecurit/
 
   - title: "📊 Data Science"
     url: /projects/
