@@ -36,4 +36,4 @@ Governance
 Knowledge Sharing
 Mentorship
 
-## Defending Systems. Automating Shielding. Outmaneuvering Threats. | Cyber Security Analyst | AppSec & Defense
+## 🥷 💻🔐Defending Systems. Automating Security. Outmaneuvering Threats. | Cyber Security Analyst | AppSec & Defense
