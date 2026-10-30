@@ -2,14 +2,14 @@ main:
   - title: "🏠 Home"
     url: /
 
-  - title: "📊 Data Science"
-    url: /projects/
-
   - title: "⚡ Electrical & Electronics"
     url: /electrical/
 
   - title: "🛡️ Cyber Security"
     url: /labs/
+
+  - title: "📊 Data Science"
+    url: /projects/
 
   - title: "🔬 Lab Challenges"
     url: /labs/
