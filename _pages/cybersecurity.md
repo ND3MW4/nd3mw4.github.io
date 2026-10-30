@@ -1,3 +1,11 @@
+---
+layout: single
+title: "Cyber Security"
+permalink: /electrical/
+author_profile: true
+---
+
+
 AfricaHackOn Cyber Security SwaraPermalink
 
 Security Analyst
