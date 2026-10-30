@@ -4,8 +4,8 @@ title: "# 🌐 Denis Ndemwa"
 author_profile: true
 ---
 
-📊 **Data Scientist** & ⚡ **Electrical & Electronics Engineer**  
-*Turning analytics-powered systems into reality.*
+** 📊 Data Scientist | ⚡ Electrical & Electronics Engineer | 🛡️ Cybersecurity Enthusiast **
+*Turning analytics-powered and cyber resilent systems into reality.*
 
 ---
 
