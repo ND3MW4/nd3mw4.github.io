@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Cyber Security"
+title: "🛡️ Cyber Security"
 permalink: /cybersecurity/
 author_profile: true
 ---
