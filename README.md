@@ -4,7 +4,7 @@
 
 Welcome to my personal website built with [Jekyll](https://jekyllrb.com/) & [Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/).
 
-🌟 **Live site:** [nd3mw4.github.io](https://nd3mw4.github.io)
+🌟 **Live site:** [denisndemwa.github.io](https://denisndemwa.github.io)
 
 ---
 

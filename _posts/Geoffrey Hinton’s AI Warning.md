@@ -59,4 +59,4 @@ His call to action:
 
 ---
 
-*Posted by [Denis Ndemwa](https://nd3mw4.github.io)*
+*Posted by [Denis Ndemwa](https://denisndemwa.github.io)*
